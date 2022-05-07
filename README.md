@@ -1,0 +1,3 @@
+# Deseasonalizing-Time-Series
+
+Time series data is a collection of data points obtained in a sequence with time values. These time values can be regular periods or irregular. We use time-series data to predict the future data responses, which are based on past data. Generally, in a time series, some unusual effect of seasonality or trends and noise makes the prediction wrong. For better forecasting with time series, we need a stationary time series data set in which the effect of trends or seasons is negligible. In the article, we will discuss the seasonality of time series data and remove it. 
